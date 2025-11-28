@@ -1,4 +1,4 @@
-# Trabalho_Ordenacao_Grupo42
+# Trabalho_Grafos_Grupo42
 
 ### Trabalho 04 - 27/11/2025
 
